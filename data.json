@@ -12,6 +12,19 @@
 		"price":147
 
 	},
+	 {
+		"temperature": 66.38,
+		"location": {
+			"city": "San Francisco",
+			"country": "US"
+		},
+		"item": "Product A",
+		"2018_units":18,
+		"2017_units":20,
+		"2016_units":38,
+		"price":276
+
+	},
 	{
 		"temperature": 21.51,
 		"location": {
