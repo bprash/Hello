@@ -1,8 +1,8 @@
  [
 	{
 		"temperature": 66.38,
-			"city": "San Francisco",
-			"country": "US",
+		"city": "San Francisco",
+		"country": "US",
 		"item": "Product A",
 		"2018_units":18,
 		"2017_units":20,
@@ -12,10 +12,8 @@
 	},
 	 {
 		"temperature": 66.38,
-		
-			"city": "San Francisco",
-			"country": "US"
-		,
+		"city": "San Francisco",
+		"country": "US",
 		"item": "Product A",
 		"2018_units":18,
 		"2017_units":20,
@@ -26,10 +24,8 @@
 	 
 	{
 		"temperature": 21.51,
-		
-			"city": "Boston",
-			"country": "US"
-		,
+		"city": "Boston",
+		"country": "US",
 		"item": "Product B",
 		"2018_units":29,
 		"2017_units":20,
@@ -38,10 +34,8 @@
 	},
 	{
 		"temperature": 23.37,
-		
-			"city": "New York",
-			"country": "US"
-		,
+		"city": "New York",
+		"country": "US",
 		"item": "Product C",
 		"2018_units":876,
 		"2017_units":20,
@@ -50,10 +44,8 @@
 	},
 	{
 		"temperature": 34.17,
-		
-			"city": "Tokyo",
-			"country": "JP"
-		,
+		"city": "Tokyo",
+		"country": "JP",
 		"item": "Product B",
 		"2018_units":29,
 		"2017_units":20,
@@ -62,10 +54,8 @@
 	},
 	{
 		"temperature": 36.21,
-		
-			"city": "Washington, D. C.",
-			"country": "US"
-		,
+		"city": "Washington, D. C.",
+		"country": "US",
 		"item": "Product B",
 		"2018_units":29,
 		"2017_units":20,
@@ -74,10 +64,8 @@
 	},
 	{
 		"temperature": 64.16,
-		
-			"city": "Los Angeles",
-			"country": "US"
-		,
+		"city": "Los Angeles",
+		"country": "US",
 		"item": "Product B",
 		"2018_units":29,
 		"2017_units":20,
@@ -86,10 +74,8 @@
 	},
 	{
 		"temperature": 59.05,
-		
-			"city": "Mexico City",
-			"country": "MX"
-		,
+		"city": "Mexico City",
+		"country": "MX",
 		"item": "Product B",
 		"2018_units":29,
 		"2017_units":20,
@@ -98,10 +84,8 @@
 	},
 	{
 		"temperature": 14.77,
-		
-			"city": "Seoul",
-			"country": "KR"
-		,
+		"city": "Seoul",
+		"country": "KR"	,
 		"item": "Product B",
 		"2018_units":29,
 		"2017_units":20,
@@ -110,10 +94,8 @@
 	},
 	{
 		"temperature": 28.93,
-		
-			"city": "Beijing",
-			"country": "CN"
-		,
+		"city": "Beijing",
+		"country": "CN"	,
 		"item": "Product B",
 		"2018_units":29,
 		"2017_units":20,
@@ -122,10 +104,8 @@
 	},
 	{
 		"temperature": 34.34,
-		
-			"city": "London",
-			"country": "GB"
-		,
+		"city": "London",
+		"country": "GB"	,
 		"item": "Product B",
 		"2018_units":29,
 		"2017_units":20,
