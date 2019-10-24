@@ -1,10 +1,8 @@
  [
 	{
 		"temperature": 66.38,
-		"location": {
 			"city": "San Francisco",
-			"country": "US"
-		},
+			"country": "US",
 		"item": "Product A",
 		"2018_units":18,
 		"2017_units":20,
@@ -14,10 +12,10 @@
 	},
 	 {
 		"temperature": 66.38,
-		"location": {
+		
 			"city": "San Francisco",
 			"country": "US"
-		},
+		,
 		"item": "Product A",
 		"2018_units":18,
 		"2017_units":20,
@@ -28,10 +26,10 @@
 	 
 	{
 		"temperature": 21.51,
-		"location": {
+		
 			"city": "Boston",
 			"country": "US"
-		},
+		,
 		"item": "Product B",
 		"2018_units":29,
 		"2017_units":20,
@@ -40,10 +38,10 @@
 	},
 	{
 		"temperature": 23.37,
-		"location": {
+		
 			"city": "New York",
 			"country": "US"
-		},
+		,
 		"item": "Product C",
 		"2018_units":876,
 		"2017_units":20,
@@ -52,10 +50,10 @@
 	},
 	{
 		"temperature": 34.17,
-		"location": {
+		
 			"city": "Tokyo",
 			"country": "JP"
-		},
+		,
 		"item": "Product B",
 		"2018_units":29,
 		"2017_units":20,
@@ -64,10 +62,10 @@
 	},
 	{
 		"temperature": 36.21,
-		"location": {
+		
 			"city": "Washington, D. C.",
 			"country": "US"
-		},
+		,
 		"item": "Product B",
 		"2018_units":29,
 		"2017_units":20,
@@ -76,10 +74,10 @@
 	},
 	{
 		"temperature": 64.16,
-		"location": {
+		
 			"city": "Los Angeles",
 			"country": "US"
-		},
+		,
 		"item": "Product B",
 		"2018_units":29,
 		"2017_units":20,
@@ -88,10 +86,10 @@
 	},
 	{
 		"temperature": 59.05,
-		"location": {
+		
 			"city": "Mexico City",
 			"country": "MX"
-		},
+		,
 		"item": "Product B",
 		"2018_units":29,
 		"2017_units":20,
@@ -100,10 +98,10 @@
 	},
 	{
 		"temperature": 14.77,
-		"location": {
+		
 			"city": "Seoul",
 			"country": "KR"
-		},
+		,
 		"item": "Product B",
 		"2018_units":29,
 		"2017_units":20,
@@ -112,10 +110,10 @@
 	},
 	{
 		"temperature": 28.93,
-		"location": {
+		
 			"city": "Beijing",
 			"country": "CN"
-		},
+		,
 		"item": "Product B",
 		"2018_units":29,
 		"2017_units":20,
@@ -124,10 +122,10 @@
 	},
 	{
 		"temperature": 34.34,
-		"location": {
+		
 			"city": "London",
 			"country": "GB"
-		},
+		,
 		"item": "Product B",
 		"2018_units":29,
 		"2017_units":20,
