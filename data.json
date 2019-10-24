@@ -9,7 +9,7 @@
 		"2018_units":18,
 		"2017_units":20,
 		"2016_units":38,
-		"price":147
+		"price":2760
 
 	},
 	 {
@@ -22,9 +22,10 @@
 		"2018_units":18,
 		"2017_units":20,
 		"2016_units":38,
-		"price":276
+		"price":147
 
 	},
+	 
 	{
 		"temperature": 21.51,
 		"location": {
