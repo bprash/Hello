@@ -1,4 +1,4 @@
-salesperson,fruit,cnt,location,revenue
+salesperson,fruit,count,location,revenue
 Ram,apple,10,Mumbai,250
 Kartik,orange,15,Pune,100
 John,banana,12,Delhi,650
